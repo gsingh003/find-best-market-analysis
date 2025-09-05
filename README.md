@@ -8,6 +8,7 @@ For this project, my goal is to answer questions such as:
 * Where are new coders located?
 * Which locations have the highest concentrations of new coders?
 * How much are they willing to spend on learning?
+* Which country or countries would be the best to spend money on an advertising campaign to generate new subscribers?
 
 # Understanding the data
 
